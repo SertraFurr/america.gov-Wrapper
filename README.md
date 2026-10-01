@@ -1,2 +1,1 @@
-# america.gov-Wrapper
-Mh, don't support that orange head.
+Use this shit AI with python from everywhere.
