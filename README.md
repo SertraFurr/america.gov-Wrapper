@@ -1,1 +1,4 @@
-Use this shit AI with python from everywhere.
+# America.GOV
+
+A pythonic way of using this AI (Fuck SI don't act tuff)
+
